@@ -1,3 +1,5 @@
+https://www.linkedin.com/pulse/cross-browser-parallel-testing-java-cucumber-selenium-fernando/
+
 # Tronium Test Automation Framework  - Web
 This is a Cucumber-Java Project. Followed BDD approach
 
